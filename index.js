@@ -85,7 +85,7 @@ function printStock(stocks) {
         c[2],
         `${c[3]}(${stock.buyPrice})`,
         `${profit}(${profitPercent}%)`,
-        `${todayProfit}(${c[32]}%)`,
+        `${todayProfit.toFixed(2)}(${c[32]}%)`,
       ]);
     }
     totalProfitPercent = (totalProfit / amount * 100).toFixed(2);
