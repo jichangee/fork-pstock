@@ -1,0 +1,24 @@
+{
+  "stocks": [
+    {
+      "code": "sh513120",
+      "buyPrice": 1.3503,
+      "quantity": 30000
+    },
+    {
+      "code": "sh513500",
+      "buyPrice": 1.5759,
+      "quantity": 14000
+    },
+    {
+      "code": "sz159915",
+      "buyPrice": 2.2655,
+      "quantity": 13400
+    },
+    {
+      "code": "sz159509",
+      "buyPrice": 0,
+      "quantity": 0
+    }
+  ]
+}
